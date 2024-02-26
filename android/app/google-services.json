@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "915261357353",
+    "project_id": "nativeco-15409",
+    "storage_bucket": "nativeco-15409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915261357353:android:5021b4a1a7c1939260cb38",
+        "android_client_info": {
+          "package_name": "com.example.nativeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915261357353-8fkmh0g7qa2d6lqs48g3ag0hfvfubsrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvVqb714vBW_TT73ktb050_eD6-WCFOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915261357353-8fkmh0g7qa2d6lqs48g3ag0hfvfubsrh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915261357353-1q6k1f7cb21c6mm7mt01rrvhjojjjrt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nativeco.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
