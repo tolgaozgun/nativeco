@@ -183,3 +183,4 @@ app.*.symbols
 
 *.env
 .env
+firebase_options.dart
