@@ -57,11 +57,11 @@ With NativeCo, our goal is to revolutionize the connection between local produce
 
 | Welcome Screen | Register Screen | Login Screen | Forgot Password Screen |
 | -------------- | --------------- | ------------ | ---------------------- |
-| <img src="screenshots/Welcome_Screen.png" width="220" height="500"> | <img src="screenshots/Register_Screen.png" width="220" height="500"> | <img src="screenshots/Login_Screen.png" width="220" height="500"> | <img src="screenshots/Forgot_Password_Screen.png" width="220" height="500"> |
+| <img src="screenshots/Welcome_Screen.png" width="180" height="400"> | <img src="screenshots/Register_Screen.png" width="180" height="400"> | <img src="screenshots/Login_Screen.png" width="180" height="400"> | <img src="screenshots/Forgot_Password_Screen.png" width="180" height="400"> |
 | Dashboard Screen | Chats Screen | Add Product Screen | Products Screen |
-| <img src="screenshots/Dashboard_Screen.png" width="220" height="500"> | <img src="screenshots/Chats_Screen.png" width="220" height="500"> | <img src="screenshots/Add_Product_Screen.png" width="220" height="500"> | <img src="screenshots/Products_Screen.png" width="220" height="500"> |
+| <img src="screenshots/Dashboard_Screen.png" width="180" height="400"> | <img src="screenshots/Chats_Screen.png" width="180" height="400"> | <img src="screenshots/Add_Product_Screen.png" width="180" height="400"> | <img src="screenshots/Products_Screen.png" width="180" height="400"> |
 | Product Screen | Gemini Screen | Conversation Screen | Profile Screen |
-| <img src="screenshots/Product_Screen.png" width="220" height="500"> | <img src="screenshots/Gemini_Screen.png" width="220" height="500"> | <img src="screenshots/Conversation_Screen.png" width="220" height="500"> | <img src="screenshots/Profile_Screen.png" width="220" height="500"> |
+| <img src="screenshots/Product_Screen.png" width="180" height="400"> | <img src="screenshots/Gemini_Screen.png" width="180" height="400"> | <img src="screenshots/Conversation_Screen.png" width="180" height="400"> | <img src="screenshots/Profile_Screen.png" width="180" height="400"> |
 
 
 ## Installation
