@@ -3,13 +3,16 @@ In today's global food system, a significant disconnect exists between local pro
 
 At NativeCo, our commitment to creating a sustainable, equitable world is defined in the United Nations' Sustainable Development Goals (SDGs) 3, 11, 12 and 15, specifically targeting sustainable cities and communities, responsible consumption, life on land, and good health and well-being. Our targets, 3.8, 11.4, 12.3 and 15.5 drive our mission to bridge the gap between local producers and markets, addressing the critical issues of food waste, loss of biodiversity, and public health. Our choice of these goals and targets was inspired by our observation of the lack of communication between local food production and consumer access, leading to unnecessary waste and the endangering of native seeds—a situation that not only threatens indigenous practices and soil health but also undermines the potential for urban areas to benefit from fresh, sustainable produce.
 
-In response, NativeCo leverages innovative technology to foster a digital marketplace that encourages direct engagement between producers and restaurants. This approach not only aims to minimize food waste but also supports sustainable agriculture practices. By integrating Gemini, we further enhance the efficiency of trade and educate our users on sustainable practices, making our platform a pivotal tool for achieving our targeted SDGs. Through NativeCo, we aspire to cultivate a more sustainable, healthy, and equitable world, showcasing the power of technology in solving critical environmental and public health challenges
+In response, NativeCo leverages innovative technology to foster a digital marketplace that encourages direct engagement between producers and restaurants. This approach not only aims to minimize food waste but also supports sustainable agriculture practices. By integrating Gemini, we further enhance the efficiency of trade and educate our users on sustainable practices, making our platform a pivotal tool for achieving our targeted SDGs. Through NativeCo, we aspire to cultivate a more sustainable, healthy, and equitable world, showcasing the power of technology in solving critical environmental and public health challenges.
+
+Join us in strengthening the future of food sustainability with NativeCo.
 
 Our main product is our Flutter application. In the near future, we will be releasing our Android, iOS and macOS applications to app stores!
 
 ## Table of Contents
 
-- [Google Technologies Used](#google-tech-used)
+- [About NativeCo](#about-nativeco)
+- [Google Technologies Used](#google-technologies-used)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -18,6 +21,11 @@ Our main product is our Flutter application. In the near future, we will be rele
 - [License](#license)
 - [Authors](#authors)
 - [Contact Us](#contact-us)
+
+
+## About NativeCo
+
+NativeCo is more than just a marketplace; it is a movement towards a sustainable, healthy, and equitable world. By leveraging cutting-edge technology and a commitment to the United Nations' Sustainable Development Goals, we aim to address critical challenges such as food waste, loss of biodiversity, and environmental degradation. Our platform is designed to educate, engage, and empower all stakeholders in the food supply chain, from local farmers to urban consumers, in the pursuit of a better future for our planet.
 
 ## Google Technologies Used
 
@@ -35,17 +43,25 @@ Our main product is our Flutter application. In the near future, we will be rele
 
 ## Features
 
-This section is under development
+With NativeCo, our goal is to revolutionize the connection between local producers and restaurants, enhancing the preservation and utilization of native seeds through a streamlined digital marketplace. Here are some of the key features that make NativeCo an indispensable tool:
+
+- **Direct Connection Between Producers and Restaurants:** Facilitates a direct line of communication and trade between local producers and restaurant owners, reducing the middleman's role and fostering a closer community bond.
+- **Surplus Produce Documentation:** Encourages producers to list surplus produce, minimizing food waste and promoting responsible consumption.
+- **Educational Tools:** Utilizes Gemini, an advanced chatbot, to offer insights into sustainable farming practices, helping producers and buyers understand the value of native seeds and sustainable agriculture.
+- **Comprehensive Platform:** Offers a full suite of features for managing the trade of goods, from listing products to chatting with potential buyers, all within an intuitive user interface.
+- **Sustainable Agriculture Advocacy:** Aims to reduce environmental degradation by supporting the cultivation and trade of native seeds, contributing to the health of the land and its people.
+- **Technological Innovation:** Built with Flutter for cross-platform compatibility (iOS, Android, macOS, Linux, and web deployment), ensuring a wide reach and seamless user experience. Incorporates Firebase for authentication, data storage, error logging, and security, along with Google Analytics for comprehensive user insights.
+
 
 ## Screenshots
 
 | Welcome Screen | Register Screen | Login Screen | Forgot Password Screen |
-| ------------ | ------------ | ------------ | ------------ |
-| ![Welcome Screen](screenshots/Welcome_Screen.png) | ![Register Screen](screenshots/Register_Screen.png) | ![Login Screen](screenshots/Login_Screen.png) | ![Forgot Password Screen](screenshots/Forgot_Password_Screen.png) |
+| -------------- | --------------- | ------------ | ---------------------- |
+| <img src="screenshots/Welcome_Screen.png" width="220" height="500"> | <img src="screenshots/Register_Screen.png" width="220" height="500"> | <img src="screenshots/Login_Screen.png" width="220" height="500"> | <img src="screenshots/Forgot_Password_Screen.png" width="220" height="500"> |
 | Dashboard Screen | Chats Screen | Add Product Screen | Products Screen |
-| ![Dashboard Screen](screenshots/Dashboard_Screen.png) | ![Chats Screen](screenshots/Chats_Screen.png) | ![Add Product Screen](screenshots/Add_Product_Screen.png) | ![Products Screen](screenshots/Products_Screen.png) |
+| <img src="screenshots/Dashboard_Screen.png" width="220" height="500"> | <img src="screenshots/Chats_Screen.png" width="220" height="500"> | <img src="screenshots/Add_Product_Screen.png" width="220" height="500"> | <img src="screenshots/Products_Screen.png" width="220" height="500"> |
 | Product Screen | Gemini Screen | Conversation Screen | Profile Screen |
-| ![Product Screen](screenshots/Product_Screen.png) | ![Gemini Screen](screenshots/Gemini_Screen.png)  | ![Conversation Screen](screenshots/Conversation_Screen.png) | ![Profile Screen](screenshots/Profile_Screen.png) |
+| <img src="screenshots/Product_Screen.png" width="220" height="500"> | <img src="screenshots/Gemini_Screen.png" width="220" height="500"> | <img src="screenshots/Conversation_Screen.png" width="220" height="500"> | <img src="screenshots/Profile_Screen.png" width="220" height="500"> |
 
 
 ## Installation
